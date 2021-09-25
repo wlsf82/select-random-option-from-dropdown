@@ -1,0 +1,19 @@
+{
+  "name": "select-random-option-from-dropdown",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate how to select a random option from a dropdown using Cypress.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress.io",
+    "cy.handsOn",
+    "Talking About Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
